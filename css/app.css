@@ -9,6 +9,9 @@
 	--color-white: rgba(204, 202, 202, 1);
 	--color-gray: rgba(175, 175, 175, 1);
 }
+html {
+	overflow: auto;
+}
 body {
 	background-color: var(--color-bg);
 	font-family: 'Roboto', sans-serif;
